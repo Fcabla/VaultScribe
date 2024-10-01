@@ -284,26 +284,3 @@ scoop install lazygit
    ```bash
    git push origin <branch-name>
    ```
-
-
----
-
-### 4. TODO List
-
-#### **Project Setup**
-- [x] Install necessary software and tools (Python, Git, brew/scoop, etc.).
-- [x] Define environment (Poetry, pix, code formatter, make, etc).
-- [ ] Consider using DVC.
-- [ ] Set up remote storage for DVC (e.g., AWS S3).
-
-#### **Development**
-- [ ] Scrapper.
-- [ ] Create accurate tender data model.
-- [ ] DB.
-- [ ] Extract info with function calling.
-- [ ] Tender chat.
-
-#### **Documentation and Reporting**
-- [x] Write comprehensive project installation guide.
-
-#### **Miscellaneous**
